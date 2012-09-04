@@ -1,4 +1,4 @@
-Missing functions:
+    Missing functions:
 ---------------------------------------------------------------------------------
 Choose a collection cover
 Choose a series cover
